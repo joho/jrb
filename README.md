@@ -1,4 +1,4 @@
-# J RB
+# J_RB
 
   One day this will be a world leading ruby framework.
 
@@ -8,7 +8,7 @@
 
 Add this line to your application's Gemfile:
 
-    gem 'jrb'
+    gem 'j_rb'
 
 And then execute:
 
@@ -16,7 +16,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install jrb
+    $ gem install j_rb
 
 ## Usage
 
@@ -25,3 +25,5 @@ Or install it yourself as:
 ## Contributing
 
     Don't
+
+    If you really need to, troll the [issues page](//github.com/joho/jrb/issues)
