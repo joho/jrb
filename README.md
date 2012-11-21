@@ -1,6 +1,8 @@
-# Jrb
+# J RB
 
-TODO: Write a gem description
+  One day this will be a world leading ruby framework.
+
+  I couldn't decided if I hated haml or erb more, so one day I will write JRB and it will be great.
 
 ## Installation
 
@@ -18,12 +20,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    Don't
 
 ## Contributing
 
-1. Fork it
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request
+    Don't
