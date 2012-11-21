@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'jrb/version'
 
 Gem::Specification.new do |gem|
-  gem.name          = "jrb"
+  gem.name          = "j_rb"
   gem.version       = Jrb::VERSION
   gem.authors       = ["John Barton"]
   gem.email         = ["jrbarton@gmail.com"]
