@@ -12,7 +12,7 @@ Gem::Specification.new do |gem|
   gem.summary       = %q{I couldn't decided if I hated haml or erb more, so one day I will write JRB and it will be great.}
   gem.homepage      = "http://github.com/joho/jrb"
 
-  s.post_install_message = <<-ART
+  gem.post_install_message = <<-ART
                  ___
                ."   ".
                |  ___(   
