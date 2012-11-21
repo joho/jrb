@@ -20,10 +20,10 @@ Or install it yourself as:
 
 ## Usage
 
-    Don't
+Don't
 
 ## Contributing
 
-    Don't
+Don't
 
-    If you really need to, troll the [issues page](//github.com/joho/jrb/issues)
+If you really need to, troll the [issues page](//github.com/joho/jrb/issues)
